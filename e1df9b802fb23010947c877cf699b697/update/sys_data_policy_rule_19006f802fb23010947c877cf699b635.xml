@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>store_name2</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 08:43:20</sys_created_on>
+        <sys_data_policy display_value="Sets the Store name2 field to mandatory">51006f802fb23010947c877cf699b632</sys_data_policy>
+        <sys_id>19006f802fb23010947c877cf699b635</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>store_name2</sys_name>
+        <sys_package display_value="DeloitteRekt" source="x_697260_deloitter">e1df9b802fb23010947c877cf699b697</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DeloitteRekt">e1df9b802fb23010947c877cf699b697</sys_scope>
+        <sys_update_name>sys_data_policy_rule_19006f802fb23010947c877cf699b635</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 08:43:20</sys_updated_on>
+        <table>x_697260_deloitter_store2</table>
+    </sys_data_policy_rule>
+</record_update>

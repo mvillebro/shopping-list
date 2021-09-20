@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Store2" max_length="40" name="x_697260_deloitter_store2" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Store name2" max_length="40" name="store_name2" type="string"/>
+    </element>
+</database>

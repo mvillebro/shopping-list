@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>item</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="Details">6da067c02fb23010947c877cf699b6b6</screen>
+        <screen_data_item_table>x_697260_deloitter_shopping_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 08:46:05</sys_created_on>
+        <sys_id>e5a067c02fb23010947c877cf699b6e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="DeloitteRekt" source="x_697260_deloitter">e1df9b802fb23010947c877cf699b697</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DeloitteRekt">e1df9b802fb23010947c877cf699b697</sys_scope>
+        <sys_update_name>sys_sg_screen_field_e5a067c02fb23010947c877cf699b6e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 08:46:05</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="DELETE" query="documentkey=e5a067c02fb23010947c877cf699b6e2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DeloitteRekt">e1df9b802fb23010947c877cf699b697</application>
+        <file_path/>
+        <instance_id>4a98287fdb9b77409df22f17d49619d5</instance_id>
+        <instance_name>dev92272</instance_name>
+        <name>sys_sg_screen_field_e5a067c02fb23010947c877cf699b6e2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>item</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>10</order><record_id_field/><screen display_value="Details">6da067c02fb23010947c877cf699b6b6</screen><screen_data_item_table>x_697260_deloitter_shopping_item</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-09-20 08:46:05</sys_created_on><sys_id>e5a067c02fb23010947c877cf699b6e2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>item</sys_name><sys_package display_value="DeloitteRekt" source="x_697260_deloitter">e1df9b802fb23010947c877cf699b697</sys_package><sys_policy/><sys_scope display_value="DeloitteRekt">e1df9b802fb23010947c877cf699b697</sys_scope><sys_update_name>sys_sg_screen_field_e5a067c02fb23010947c877cf699b6e2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-09-20 08:46:05</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field><sys_translated_text action="delete_multiple" query="documentkey=e5a067c02fb23010947c877cf699b6e2"/></record_update>]]></payload>
+        <payload_hash>-1101778657</payload_hash>
+        <record_name>item</record_name>
+        <reverted_from/>
+        <source>e5df9b802fb23010947c877cf699b699</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 08:46:09</sys_created_on>
+        <sys_id>1aa0a7c02fb23010947c877cf699b6aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c02624d200000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 08:46:09</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>92a0a7c0d2b23010b67e74f6cbec31aa</update_guid>
+        <update_guid_history>92a0a7c0d2b23010b67e74f6cbec31aa:-1101778657</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-20 09:19:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>28245fb303b240b8b36c038ecc544e89</sys_id>
+        <sys_metadata>e5a067c02fb23010947c877cf699b6e2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="DeloitteRekt" source="x_697260_deloitter">e1df9b802fb23010947c877cf699b697</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DeloitteRekt">e1df9b802fb23010947c877cf699b697</sys_scope>
+        <sys_scope_delete display_value="">62aeaeda878d4928ab60cfd902d70f19</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_e5a067c02fb23010947c877cf699b6e2</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_e5a067c02fb23010947c877cf699b6e2">1aa0a7c02fb23010947c877cf699b6aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-20 09:19:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
